@@ -11,7 +11,7 @@ status-website:
   cname: status.linkvite.io
   logoUrl: https://linkvite.s3.us-east-2.amazonaws.com/Purple+Icon%403x.png
   name: Linkvite
-  introTitle: "**Linkvite** helps people keep track of all their bookmarks in one place."
+  introTitle: "**Linkvite** helps users store their bookmarks in one place."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/LinkviteApp/status).
   navbar:
     - title: Status
