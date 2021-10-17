@@ -9,7 +9,7 @@ assignees: # Users to assign downtime issues (optional)
 
 status-website:
   cname: status.linkvite.io
-  logoUrl: https://linkvite.s3.us-east-2.amazonaws.com/Purple+Icon%403x.png
+  logoUrl: https://linkvite.s3.us-east-2.amazonaws.com/bmk_pic/default.png
   name: Linkvite
   introTitle: "**Linkvite** helps users store their bookmarks in one place."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/LinkviteApp/status).
