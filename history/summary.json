@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.linkvite.io",
     "slug": "linkvite-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 305,
-    "timeDay": 130,
-    "timeWeek": 348,
-    "timeMonth": 320,
-    "timeYear": 305,
+    "uptimeYear": "99.98%",
+    "time": 304,
+    "timeDay": 200,
+    "timeWeek": 316,
+    "timeMonth": 312,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2021-09-04": 24
     }
