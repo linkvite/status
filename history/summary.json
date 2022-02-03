@@ -4,7 +4,7 @@
     "url": "https://api.linkvite.io",
     "icon": "https://favicons.githubusercontent.com/api.linkvite.io",
     "slug": "linkvite-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
@@ -16,6 +16,7 @@
     "timeMonth": 296,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2022-02-03": 0,
       "2022-02-01": 51,
       "2021-11-06": 39,
       "2021-09-04": 24
