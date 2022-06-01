@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Linkvite API
-    url: https://api.linkvite.io
+    url: https://api.linkvite.io/ping
 assignees: # Users to assign downtime issues (optional)
   - kayode0x
 
