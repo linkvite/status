@@ -1,7 +1,7 @@
 url: https://api.linkvite.io/ping
-status: down
-code: 502
-responseTime: 146
-lastUpdated: 2023-10-20T19:31:07.199Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2023-10-20T19:55:03.989Z
 startTime: 2021-08-09T23:28:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
