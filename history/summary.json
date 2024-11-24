@@ -4,7 +4,7 @@
     "url": "https://api.linkvite.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.linkvite.io.ico",
     "slug": "linkvite-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 271,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2024-11-24": 0,
       "2024-07-11": 191,
       "2024-06-12": 45,
       "2024-03-11": 109,
