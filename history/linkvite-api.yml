@@ -1,7 +1,7 @@
 url: https://api.linkvite.io/health
-status: down
-code: 502
-responseTime: 679
-lastUpdated: 2025-03-16T03:53:37.535Z
+status: up
+code: 200
+responseTime: 140
+lastUpdated: 2025-03-16T04:40:36.702Z
 startTime: 2021-08-09T23:28:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
