@@ -4,7 +4,7 @@
     "url": "https://api.linkvite.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.linkvite.io.ico",
     "slug": "linkvite-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
